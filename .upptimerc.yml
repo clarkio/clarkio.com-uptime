@@ -3,7 +3,7 @@ owner: clarkio # Your GitHub organization or username, where this repository liv
 repo: clarkio.com-uptime # The name of this repository
 
 sites:
-  - name: clarkio.com
+  - name: clarkio
     url: https://www.clarkio.com
   - name: Test Broken Site
     url: https://thissitedoesnotexist.koj.co
