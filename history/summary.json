@@ -1,20 +1,20 @@
 [
   {
-    "name": "clarkio.com",
+    "name": "clarkio",
     "url": "https://www.clarkio.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.clarkio.com.ico",
-    "slug": "clarkio-com",
+    "slug": "clarkio",
     "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 413,
-    "timeDay": 413,
-    "timeWeek": 413,
-    "timeMonth": 413,
-    "timeYear": 413,
+    "time": 632,
+    "timeDay": 632,
+    "timeWeek": 632,
+    "timeMonth": 632,
+    "timeYear": 632,
     "dailyMinutesDown": {}
   },
   {
