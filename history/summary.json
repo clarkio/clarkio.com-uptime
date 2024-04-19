@@ -4,17 +4,19 @@
     "url": "https://www.clarkio.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.clarkio.com.ico",
     "slug": "clarkio",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 350,
-    "timeDay": 266,
-    "timeWeek": 1049,
-    "timeMonth": 483,
+    "time": 349,
+    "timeDay": 236,
+    "timeWeek": 944,
+    "timeMonth": 474,
     "timeYear": 342,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-04-19": 0
+    }
   }
 ]
